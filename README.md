@@ -2,11 +2,11 @@
 
 # Hey, I'm Cristian Nieto
 
-**Full Stack Developer & Builder**
+**Product Engineer · Growth Engineer · Full Stack Developer**
 
 Santiago, Chile
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cristiannieto.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cristiannietoai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cnietoalbayay)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnietoalbayay@gmail.com)
 
@@ -16,7 +16,7 @@ Santiago, Chile
 
 ### About me
 
-Full Stack Developer with 3+ years building digital products that drive real business impact. I specialize in **React, TypeScript, Node.js** and **E-commerce ecosystems**. My approach combines software engineering with business vision — I turn complex operational requirements into intuitive, automated platforms.
+Full Stack Developer with 3 years building digital products that drive real business impact. I specialize in **React, TypeScript, Node.js** and **E-commerce ecosystems**. My approach combines software engineering with business vision — I turn complex operational requirements into intuitive, automated platforms.
 
 Founder of **Digitalizatepo SpA**, a digital transformation agency for B2B companies and D2C brands.
 
@@ -72,13 +72,11 @@ Founder of **Digitalizatepo SpA**, a digital transformation agency for B2B compa
 
 | Project | Description | Stack | Live |
 |---------|------------|-------|------|
-| **Futbolin** | Sports scouting platform — FIFA-style player cards, freemium monetization | React, TypeScript, Supabase | [futbolin-web.vercel.app](https://futbolin-web.vercel.app) |
-| **AI Carousel Agent** | AI agent that generates Instagram carousels from chat — 90% API cost reduction | Next.js, Claude API, Vercel AI SDK | [carousel-agent.vercel.app](https://carousel-agent.vercel.app) |
-| **SUMERICA** | Automated B2B quoting platform — saved 20h/week in sales operations | React, Node.js, REST APIs | [sumerica.cl](https://sumerica.cl) |
+| **SanitIA** | Multi-country food-safety compliance SaaS — immutable ledger + Claude agent | Next.js, Supabase, Claude API | [overview](https://github.com/cristiannieto82/sanitia-overview) |
+| **Kantu LMS** | B2B/B2C learning platform — 4 roles, verifiable certificates, Chilean payments | Next.js 16, Supabase, Transbank | [overview](https://github.com/cristiannieto82/kantu-lms-overview) |
+| **SUMERICA** | B2B catalogue & quoting platform — PDF quotes + AI chatbot, ~20h/week saved | Next.js 16, Supabase, Drizzle | [sumerica.cl](https://sumerica.cl) · [overview](https://github.com/cristiannieto82/sumerica-overview) |
 | **Black Wolf Chile** | Shopify optimization — Liquid refactor, Klaviyo flows, +AOV | Shopify, Klaviyo, Meta Ads | [blackwolfchile.com](https://blackwolfchile.com) |
-| **Pilgrim** | Growth partner — multichannel management (Shopify, MeLi, Uber, Falabella) | Shopify, Growth Strategy | [pilgrim.cl](https://pilgrim.cl) |
-| **Costa Azul** | First digital B2B sales channel for food industry — $0 to revenue | React, Node.js | [costaazulempanadas.cl](https://costaazulempanadas.cl) |
-| **Decant La Herradure** | E-commerce for decants & perfumery | Shopify, Liquid | [decantlaherradure.com](https://decantlaherradure.com) |
+| **Pilgrim** | Growth partner — multichannel e-commerce, Meta/Google Ads at 10x+ ROAS, Klaviyo | Shopify, Meta Ads, Klaviyo | [pilgrim.cl](https://pilgrim.cl) |
 
 ---
 
@@ -86,7 +84,7 @@ Founder of **Digitalizatepo SpA**, a digital transformation agency for B2B compa
 
 - Building at **Andain / OneApp** — Full Stack Developer (React, TypeScript, React Native, AWS Lambda)
 - Running **Digitalizatepo SpA** — digital transformation for B2B & D2C brands
-- Shipping **Futbolin** — the LinkedIn for football scouting
+- Building **SanitIA** — food-safety compliance SaaS with an AI agent
 
 ---
 
