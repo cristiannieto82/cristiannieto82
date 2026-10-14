@@ -90,12 +90,6 @@ Founder of **Digitalizatepo SpA**, a digital transformation agency for B2B compa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiannieto82&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=FF4800&icon_color=FF4800&text_color=A0A0A0&ring_color=FF4800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiannieto82&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=FF4800&text_color=A0A0A0)
-
-<br>
-
 ![Visitors](https://komarev.com/ghpvc/?username=cristiannieto82&color=FF4800&style=flat-square&label=Profile+Views)
 
 </div>
